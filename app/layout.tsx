@@ -13,17 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Hư Không Dị Giới Wiki · Terraria DST',
-  description: 'Wiki kiểu Notion cho mod Hư Không Dị Giới, đồng bộ từ Alan Wiki và đối chiếu với dữ liệu mod DST.',
+  title: 'Hư Không Dị Giới · Wiki',
+  description: 'Wiki cho mod Hư Không Dị Giới DST.',
   openGraph: {
-    title: 'Hư Không Dị Giới Wiki',
-    description: 'Terraria · Don’t Starve Together',
+    title: 'Hư Không Dị Giới · Wiki',
+    description: 'Terraria · DST',
     images: [{ url: '/og.png', width: 1672, height: 941 }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Hư Không Dị Giới Wiki',
-    description: 'Terraria · Don’t Starve Together',
+    title: 'Hư Không Dị Giới · Wiki',
+    description: 'Terraria · DST',
     images: ['/og.png'],
   },
 };
